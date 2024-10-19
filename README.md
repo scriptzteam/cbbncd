@@ -1,3 +1,4 @@
+```
      _   _             _ 
  ___| |_| |_ ___ ___ _| |
 |  _| . | . |   |  _| . |
@@ -104,3 +105,4 @@ Changelog:
   - Updated core lib because of fixes around socket load management
 0.1 (2016-12-06):
   - First release
+```
