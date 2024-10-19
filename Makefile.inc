@@ -1,0 +1,2 @@
+ALLFLAGS=-std=c++11 -Wall
+CXXFLAGS=$(ALLFLAGS) -MMD -MP
